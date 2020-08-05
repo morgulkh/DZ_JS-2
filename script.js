@@ -21,8 +21,7 @@ if (c<min){
     min = c;
     minVarName = 'c';
 }
-//alert(`минимальное число = ${min}, переменная ${minVarName}`);
-//alert(`${min}`);
+alert(`минимальное число = ${min}, переменная ${minVarName}`);
 
 //3
 let money1 = prompt('how much do you have?');
